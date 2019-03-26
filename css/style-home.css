@@ -478,6 +478,7 @@ body {
         padding-top: 100px;
         width: 100%;
         text-align: center;
+        color: white;
     }
     #socialMedia {
         padding-top: 30px;
@@ -509,6 +510,32 @@ body {
         text-align: center;
         margin: 0 auto;
         padding-bottom: 20px;
+    }
+    .project-container {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        width: 100%;
+        position: relative;
+        text-align:center
+    }
+    .project { 
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+    }
+    .project-logo {
+        width: 30px;
+        position: relative;
+        bottom: 7px;
+    }
+    .project-title {
+        color: white;
+        font-size: 20px;
+    }
+    .project-title:hover {
+        color: gold;
+        font-size: 20px;
+        transition: all 0.7s ease;
     }
     #myPhoto img {
         width: 100%;
@@ -556,16 +583,6 @@ body {
     .project-title {
         color: white;
         font-size: 30px;
-    }
-    .project-description {
-        text-align: start;
-        color: white;
-    }
-    .project-details 
-    {
-        text-align: start;
-        color: white;
-        font-size: 15px;
     }
     .bullet {
         height: 5px;
