@@ -203,7 +203,6 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
-  
 }
 
 /* tablet & mobile */
@@ -503,11 +502,6 @@ body {
     color: white;
     font-size: 20px;
   }
-  .project-title:hover {
-    color: gold;
-    font-size: 20px;
-    transition: all 0.7s ease;
-  }
   #myPhoto img {
     width: 100%;
   }
@@ -553,6 +547,10 @@ body {
   .project-title {
     color: white;
     font-size: 30px;
+  }
+  .project-title:hover {
+    color: gold;
+    transition: all 0.7s ease;
   }
   .bullet {
     height: 5px;
