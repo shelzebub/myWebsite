@@ -1,2 +1,8 @@
 plugins:
   - jekyll-seo-tag
+
+title: Shely Lin | Software Developer/Web Designer | Surrey, BC
+description: Let's work together to make your business even better! I do software solutions, web & mobile solutions, graphic designs, technical documents, and much more. Contact me via e-mail for more information!
+logo: ./images/logo.png
+url: http://www.shelylin.ca
+canonical_url: "http://www.shelylin.ca"
